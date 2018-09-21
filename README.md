@@ -3,7 +3,7 @@
 This is a fork of the Realtek 802.11ac (rtl8812au) v4.2.2 (7502.20130507)
 driver altered to build on Linux kernel version >= 3.10.
 
-may require update linux header by linux-headers-$(uname -r)
+may require update linux header by apt-get install linux-headers-$(uname -r)
 
 ### Purpose
 
